@@ -2,6 +2,7 @@
 
 ## MSc Thesis in Biophysics & Biochemistry
 
+**Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
 **Affiliation:** Department of Cellular and Molecular Medicine 
 **Group:** Dynamics in Biological Systems <br>
