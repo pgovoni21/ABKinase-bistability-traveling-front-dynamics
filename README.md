@@ -3,14 +3,13 @@
 MSc Thesis in Biophysics & Biochemistry
 
 **Title:** Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase <br>
-**Supervisor:** Prof. Lendert Gelens 
+**Supervisor:** Prof. Lendert Gelens <br>
 **Affiliation:** Department of Cellular and Molecular Medicine 
-- Group: Dynamics in Biological Systems
-- Academic Year: 2020-2021
+**Group:** Dynamics in Biological Systems <br>
+**Academic Year:** 2020-2021 <br>
 
-Mass-action model taken from: 
+Mass-action model taken from: <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644.
-
 
 This collection of Jupyter Notebook files walk through the exploration of kinase-phosphatase dynamics concerning Aurora B kinase as described in my master's thesis, mirroring the theoretical/simulation sections of the report by:
 
