@@ -11,6 +11,8 @@ MSc Thesis in Biophysics & Biochemistry
 Mass-action model taken from: <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644.
 
+
+
 This collection of Jupyter Notebook files walk through the exploration of kinase-phosphatase dynamics concerning Aurora B kinase as described in my master's thesis, mirroring the theoretical/simulation sections of the report by:
 
 - comparing activation & inactivation (positive & negative) feedback loops and the bistability that results from their balance in the reaction network (4.1)
