@@ -2,7 +2,7 @@
 
 MSc Thesis in Biophysics & Biochemistry
 
-**Title:** Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase
+**Title:** Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase <br>
 **Supervisor:** Prof. Lendert Gelens 
 **Affiliation:** Department of Cellular and Molecular Medicine 
 - Group: Dynamics in Biological Systems
