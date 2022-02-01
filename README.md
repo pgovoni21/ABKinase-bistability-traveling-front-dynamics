@@ -15,7 +15,7 @@
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
 [Zaytsev 2016.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978806/Zaytsev.-.AB.kin-PP.cell.division.bistability.pdf)
 
-### This collection of Jupyter Notebook files walk through the exploration of kinase-phosphatase dynamics concerning Aurora B kinase as described in my master's thesis, mirroring the theoretical/simulation sections of the report by:
+### This collection of Jupyter Notebook files walk through an exploration of kinase-phosphatase dynamics concerning the reaction, diffusion, and localization of Aurora B kinase as described in my master's thesis. The files mirror the theoretical/simulation sections of the report by:
 
 - comparing activation & inactivation (positive & negative) feedback loops and the bistability that results from their balance in the reaction network (4.1)
 - using both a fully defined mass-action model as well as a simpler phenomenological model (4.2)
