@@ -7,9 +7,9 @@
 
 **Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
-**Affiliation:** Department of Cellular and Molecular Medicine 
+**Affiliation:** Department of Cellular and Molecular Medicine <br>
 **Group:** Dynamics in Biological Systems <br>
-**Academic Year:** 2020-2021 <br>
+**Academic Year:** 2020-2021 
 
 Mass-action model taken from: <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
