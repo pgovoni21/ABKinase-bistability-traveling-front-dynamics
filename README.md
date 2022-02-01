@@ -1,6 +1,6 @@
 # Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase
 
-## MSc Thesis in Biophysics & Biochemistry
+## MSc Thesis in Biophysics & Biochemistry 
 
 **Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
