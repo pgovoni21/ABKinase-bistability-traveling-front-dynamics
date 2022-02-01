@@ -20,6 +20,7 @@ Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatas
 - finding traveling front behavior relevant to the centromeric localization force by lowering diffusion, creating an interesting stalling behavior (6.4)
 - switching to the phenomenological model to find kinase valleys between centromere + chromosome arms to cause the stalling (6.5)
 - describing the stalling via geometric analysis as a transient approach to an energetic equilibrium, or Maxwell point (6.6)
-- moving back to the mass-action model to explain phosphatase as well as kinase dynamics as well as the effect of an altered binding site profile on the system (6.7)
+- moving back to the mass-action model to explain phosphatase as well as kinase dynamics (6.7.1)
+- as well as the effects of fixing phosphatase and of an altered binding site profile on the system (6.7.2)
 
 Note: Several simulations in the report take a significant amount of time to run, as noted in the relevant cells. Due to Github file size limits and repository size recommendations, the associated data files have not been uploaded. Feel free to reach out to me if you would like to look at the data without taking the time to run those cells!
