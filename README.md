@@ -2,7 +2,7 @@
 
 ## MSc Thesis in Biophysics & Biochemistry 
 
-[Govoni_MSc_thesis_main_text.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf)
+[Govoni_MSc_thesis_main_text.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
 [Govoni_MSc_thesis_supp_figures.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf)
 
 **Author:** Me, Patrick Govoni <br>
@@ -12,7 +12,7 @@
 **Academic Year:** 2020-2021 <br>
 
 Mass-action model taken from: <br>
-Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644.
+Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
 [Zaytsev - AB kin-PP cell division bistability.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978806/Zaytsev.-.AB.kin-PP.cell.division.bistability.pdf)
 
 ### This collection of Jupyter Notebook files walk through the exploration of kinase-phosphatase dynamics concerning Aurora B kinase as described in my master's thesis, mirroring the theoretical/simulation sections of the report by:
