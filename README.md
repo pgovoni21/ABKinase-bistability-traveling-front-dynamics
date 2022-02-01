@@ -22,4 +22,4 @@ Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatas
 - describing the stalling via geometric analysis as a transient approach to an energetic equilibrium, or Maxwell point (6.6)
 - moving back to the mass-action model to explain phosphatase as well as kinase dynamics as well as the effect of an altered binding site profile on the system (6.7)
 
-Note: Several simulations in the report take a significant amount of time to run, as noted in the cells in the notebook. Files are added in the repository that are called in the notebook, thus the reader does not need to rerun the cells with these simulations.
+Note: Several simulations in the report take a significant amount of time to run, as noted in the cells in the notebook. These cells are marked with a warning message. Due to Github file size limits and repository size recommendations, the associated data files have not been uploaded. Feel free to email me if you would like to look at the data!
