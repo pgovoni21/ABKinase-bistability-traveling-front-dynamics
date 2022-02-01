@@ -11,7 +11,7 @@
 **Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
 
-Mass-action model taken from: <br>
+**Mass-action model taken from:** <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
 [Zaytsev 2016.pdf](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978806/Zaytsev.-.AB.kin-PP.cell.division.bistability.pdf)
 
