@@ -30,3 +30,8 @@ This collection of Jupyter Notebook files walk through an exploration of kinase-
 - [6.7.2](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_7_2_dynamic_kinase_ppase-mass_action_model.ipynb): as well as the effects of fixing phosphatase and of an altered binding site profile on the system
 
 Note: Several simulations in the report take a significant amount of time to run, as noted in the relevant cells. Due to GitHub file size limits and repository size recommendations, the associated data files have not been uploaded. Feel free to reach out to me if you would like to look at the data without taking the time to run those cells!
+
+## 📝 License
+
+Copyright © 2021 [Patrick Govoni](https://github.com/pgovoni21). <br />
+This project is [MIT](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/LICENSE) licensed.
