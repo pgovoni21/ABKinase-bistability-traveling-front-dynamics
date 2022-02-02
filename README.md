@@ -1,15 +1,16 @@
 ## MSc Thesis in Biophysics & Biochemistry 
 
 # Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase
+<img src="https://user-images.githubusercontent.com/63123849/152151883-bbfadbf5-328c-4677-ad40-52597d72d078.png" width="400">
 
 **Thesis Manuscript Files:** <br>
 [Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
-[Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf)
+[Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf) <br>
+[Supplemental Movies](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7987861/Govoni_MSc_thesis_supp_movies.zip)
 
 **Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
-**Affiliation:** Department of Cellular and Molecular Medicine <br>
-**Group:** Dynamics in Biological Systems <br>
+**Affiliation:** Dynamics in Biological Systems, Department of Cellular and Molecular Medicine, Faculty of Medicine, KU Leuven <br>
 **Academic Year:** 2020-2021 
 
 **Mass-action model taken from:** <br>
