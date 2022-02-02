@@ -11,7 +11,7 @@
 **Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
 **Affiliation:** Department of Cellular and Molecular Medicine, KU Leuven <br>
-**Group:** Dynamics in Biological Systems
+**Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
 
 **Mass-action model taken from:** <br>
