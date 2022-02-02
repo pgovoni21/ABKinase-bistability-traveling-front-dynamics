@@ -31,7 +31,7 @@ This collection of Jupyter Notebook files walk through an exploration of kinase-
 
 Note: Several simulations in the report take a significant amount of time to run, as noted in the relevant cells. Due to GitHub file size limits and repository size recommendations, the associated data files have not been uploaded. Feel free to reach out to me if you would like to look at the data without taking the time to run those cells!
 
-## 📝 License
+## License
 
 Copyright © 2021 [Patrick Govoni](https://github.com/pgovoni21). <br />
 This project is [MIT](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/LICENSE) licensed.
