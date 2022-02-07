@@ -1,3 +1,8 @@
+theme: jekyll-theme-minimal
+
 title: Master's Thesis in Biophysics & Biochemistry
 logo: ./title_figure.png
-theme: jekyll-theme-minimal
+
+author: Patrick Govoni
+name: Patrick Govoni
+email: pgovoni21@gmail.com
