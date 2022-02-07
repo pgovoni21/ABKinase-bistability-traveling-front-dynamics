@@ -1,7 +1,8 @@
 ## MSc Thesis in Biophysics & Biochemistry 
 
 # Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase
-<img src="https://user-images.githubusercontent.com/63123849/152151883-bbfadbf5-328c-4677-ad40-52597d72d078.png" width="400">
+
+<img src="./title_figure.png" width="400">
 
 **Thesis Manuscript Files:** <br>
 [Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
@@ -16,7 +17,7 @@
 
 **Mass-action model taken from:** <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
-[Article](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978806/Zaytsev.-.AB.kin-PP.cell.division.bistability.pdf)
+[Article](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/8017486/Zaytsev_2016_ABkinPP_bistability.pdf)
 
 **Jupyter Notebook Files:** <br>
 The following notebooks walk through the simulations of kinase-phosphatase dynamics concerning reaction, diffusion, and localization of Aurora B kinase as described in my thesis. The files mirror the numbered sections of the report, gradually building up the system by:
