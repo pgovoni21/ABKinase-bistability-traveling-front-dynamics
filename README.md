@@ -1,8 +1,6 @@
-## MSc Thesis in Biophysics & Biochemistry 
-
 # Bistability &amp; Traveling Front Dynamics in the Cell Cycle Regulatory Protein, Aurora B Kinase
 
-<img src="./title_figure.png" width="400">
+<img src="./title_video.gif" width="600">
 
 **Thesis Manuscript Files:** <br>
 [Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
