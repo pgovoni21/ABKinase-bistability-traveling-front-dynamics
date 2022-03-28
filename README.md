@@ -2,16 +2,16 @@
 
 ![title_video](./title_video.gif)
 
-**Thesis Manuscript Files:** <br>
-[Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
-[Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf) <br>
-[Supplemental Movies](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7987861/Govoni_MSc_thesis_supp_movies.zip)
-
 **Author:** Me, Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
 **Affiliation:** Department of Cellular and Molecular Medicine, KU Leuven <br>
 **Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
+
+**Thesis Manuscript Files:** <br>
+[Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
+[Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf) <br>
+[Supplemental Movies](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7987861/Govoni_MSc_thesis_supp_movies.zip)
 
 **Abstract:** Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
 
