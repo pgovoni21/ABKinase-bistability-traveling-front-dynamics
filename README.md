@@ -13,6 +13,8 @@
 **Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
 
+**Abstract:** Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
+
 **Mass-action model taken from:** <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
 [Article](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/8017486/Zaytsev_2016_ABkinPP_bistability.pdf)
@@ -22,11 +24,11 @@ The following notebooks walk through the simulations of kinase-phosphatase dynam
 
 - [comparing activation & inactivation (positive & negative) feedback loops in the reaction network (4.1)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/4_1_activation_inactivation.ipynb)
 - [examining the bistability that results from a type of balance between the loops (4.2)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/4_2_bistability.ipynb)
-- [using both a fully defined mass-action model as well as a simpler phenomenological model (4.3)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/4_3_phenomenological_model.ipynb)
+- [using both a fully defined mass-action model (defined in 4.1) as well as a simpler phenomenological model (4.3)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/4_3_phenomenological_model.ipynb)
 - [combining diffusion with bistable reaction kinetics to produce traveling front behavior (6.1)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_1_diffusion_traveling_fronts.ipynb)
-- [relating the model to figures in Zaytsev's paper, finding simulated traveling front behavior only relevant on a much larger scale than observed in vivo (6.3)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_3_traveling_fronts_mass_action_model_biological_diffusion_speed.ipynb)
+- [relating the model to figures in Zaytsev's paper, finding simulated traveling front behavior is only relevant on a much larger scale than observed in vivo (6.3)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_3_traveling_fronts_mass_action_model_biological_diffusion_speed.ipynb)
 - [lowering diffusion speed to observe traveling front behavior relevant to the centromeric localization force, creating an interesting stalling behavior (6.4)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_4_traveling_fronts_mass_action_model_reduced_diffusion_speed.ipynb)
-- [switching to the phenomenological model to the underlying cause of this stalling behavior (6.5)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_5_traveling_fronts_phenomenological_model.ipynb)
+- [switching to the phenomenological model to diagnose the underlying cause of this stalling behavior (6.5)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_5_traveling_fronts_phenomenological_model.ipynb)
 - [describing the stalling via geometric analysis as a transient approach to an energetic equilibrium, or Maxwell point (6.6)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_6_geometric_analysis_maxwell_point_phenomenological_model.ipynb)
 - [moving back to the mass-action model to observe/explain phosphatase as well as kinase dynamics (6.7)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_7_1_dynamic_kinase_ppase-mass_action_model.ipynb)
 - [as well as the effects of fixing phosphatase and of altering the binding site profile on the system (6.7)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/6_7_2_dynamic_kinase_ppase-mass_action_model.ipynb)
