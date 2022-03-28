@@ -8,12 +8,12 @@
 **Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
 
+**Abstract:** Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
+
 **Thesis Manuscript Files:** <br>
 [Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
 [Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf) <br>
 [Supplemental Movies](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7987861/Govoni_MSc_thesis_supp_movies.zip)
-
-**Abstract:** Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
 
 **Mass-action model taken from:** <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
