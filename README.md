@@ -8,18 +8,19 @@
 **Group:** Dynamics in Biological Systems <br>
 **Academic Year:** 2020-2021 
 
-**Abstract:** Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
+**Abstract:** <br>
+Reliable chromosome segregation is vital to an organism’s long-term survival. Aurora B kinase, one of the key players in this critical mitotic event, uses a spatial gradient in activity to help selectively stabilize kinetochore-microtubule attachments and achieve properly balanced biorientation before chromatid splitting in anaphase. A popular theory asserts that Aurora B kinase (ABK) achieves this spatial gradient through the combination of localization, diffusion, and bistable reaction kinetics together with phosphatase (PPase). In this report I will discuss the individual aspects of these components in a theoretical context, the experimental effort to construct a minimal kinase-phosphatase system, as well as simulation explorations of the system using two different modeling approaches.
 
-**Thesis Manuscript Files:** <br>
+**Thesis manuscript:** <br>
 [Main Text](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978798/Govoni_MSc_thesis_main_text.pdf) <br>
 [Supplemental Figures](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7978800/Govoni_MSc_thesis_supp_figures.pdf) <br>
 [Supplemental Movies](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/7987861/Govoni_MSc_thesis_supp_movies.zip)
 
-**Mass-action model taken from:** <br>
+**Mass-action model used:** <br>
 Zaytsev, Anatoly V., et al. "Bistability of a coupled Aurora B kinase-phosphatase system in cell division." elife 5 (2016): e10644. <br>
 [Article](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/files/8017486/Zaytsev_2016_ABkinPP_bistability.pdf)
 
-**Jupyter Notebook Files:** <br>
+**Jupyter notebook files:** <br>
 The following notebooks walk through the simulations of kinase-phosphatase dynamics concerning reaction, diffusion, and localization of Aurora B kinase as described in my thesis. The files mirror the numbered sections of the report, gradually building up the system by:
 
 - [comparing activation & inactivation (positive & negative) feedback loops in the reaction network (4.1)](https://nbviewer.org/github/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/4_1_activation_inactivation.ipynb)
@@ -35,7 +36,6 @@ The following notebooks walk through the simulations of kinase-phosphatase dynam
 
 Note: Several simulations in the report take a significant amount of time to run, as noted in the relevant cells. Due to GitHub file size limits and repository size recommendations, the associated data files have not been uploaded. Feel free to reach out to me if you would like to look at the data without taking the time to run those cells!
 
-## License
-
-Copyright © 2021 [Patrick Govoni](https://github.com/pgovoni21). <br />
+**License:** <br>
+Copyright © 2021 [Patrick Govoni](https://github.com/pgovoni21). <br>
 This project is [MIT](https://github.com/pgovoni21/ABKinase-bistability-traveling-front-dynamics/blob/main/LICENSE) licensed.
