@@ -2,7 +2,7 @@
 
 ![title_video](./title_video.gif)
 
-**Author:** Me, Patrick Govoni <br>
+**Author:** Patrick Govoni <br>
 **Supervisor:** Prof. Lendert Gelens <br>
 **Affiliation:** Department of Cellular and Molecular Medicine, KU Leuven <br>
 **Group:** Dynamics in Biological Systems <br>
